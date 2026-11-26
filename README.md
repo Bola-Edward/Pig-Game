@@ -35,17 +35,19 @@ The JavaScript maintains the total scores, current score, active player, and pla
 ## Project Structure
 
 ```text
-index.html
-style.css
-script.js
-.prettierrc
-dice-1.png
-dice-2.png
-dice-3.png
-dice-4.png
-dice-5.png
-dice-6.png
-pig-game-flowchart.png
+Pig-Game/
+├── index.html
+├── style.css
+├── script.js
+├── .prettierrc
+├── dice-1.png
+├── dice-2.png
+├── dice-3.png
+├── dice-4.png
+├── dice-5.png
+├── dice-6.png
+├── pig-game-flowchart.png
+└── README.md
 ```
 
 ## Run Locally
